@@ -1,0 +1,17 @@
+{
+"companyName": "Magic",
+"productName": "ocean fun",
+"productVersion": "0.1",
+"dataUrl": "OCEANFUN.data.unityweb",
+"wasmCodeUrl": "OCEANFUN.wasm.code.unityweb",
+"wasmFrameworkUrl": "OCEANFUN.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "OCEANFUN.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.9f1"
+}
